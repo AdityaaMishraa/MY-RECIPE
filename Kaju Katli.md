@@ -4,11 +4,11 @@
 
 #### Ingredients:
 
-- [ ] 2 cup cashew / kaju
-- [ ] 1 cup sugar
-- [ ] 0.5 cup water
-- [ ] 1 tsp ghee 
-- [ ] 0.25 tsp cardamom powder
+-  2 cup cashew / kaju
+-  1 cup sugar
+-  0.5 cup water
+-  1 tsp ghee 
+-  0.25 tsp cardamom powder
 
 ####  INSTRUCTIONS
 
